@@ -14,7 +14,10 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^14.1.1",
+    "dotenv": "^8.2.0",
     "gatsby": "^2.24.85",
+    "gatsby-source-contentful": "^3.0.4",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
